@@ -1,0 +1,19 @@
+Declaire;
+var A;
+var B;
+var C;
+var D;
+SUM;
+AVG;
+status;
+-----------------------------------------
+Process;
+
+SUM=A+B+C+D;
+AVG=SUM/4;
+
+IF Grade >=60
+{status=APPROVED}
+else{status=Failed}
+-----------------------------------------
+Print status
