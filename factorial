@@ -1,0 +1,13 @@
+input;
+declaire;
+sum=1;
+number=(user input);
+--------------------------------------------
+process;
+sum*=number;
+number-=1;
+if number >0
+         repeat the process
+else
+         stop
+         print sum
