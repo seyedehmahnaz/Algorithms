@@ -1,0 +1,11 @@
+input
+declaire;
+var heigh;
+var width;
+var area;
+-------------------------------------
+process;
+area=height*width;
+------------------------------------
+output;
+print area;
