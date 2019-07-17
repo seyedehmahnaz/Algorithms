@@ -1,0 +1,6 @@
+let sum =1;
+let number;
+for (number =5;number>0;number-=1){
+sum*=number;
+}
+alert(sum);
