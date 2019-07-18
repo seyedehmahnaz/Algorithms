@@ -1,0 +1,26 @@
+input;
+declare;
+var number=1;
+var divisor=2;
+var reminde;
+----------------------------------------
+process;
+if(number<2)
+      print "it is not prime!"
+      number+=1
+      process again
+if (number=2)
+      print "number is prime"
+      number+=1     
+ if (number >2)    
+       remainder = number %divisor
+     if(remainder = 0)
+      it is not prime number,number+=1,divisor=2,process again
+      else
+      divisor +=1
+      if (number = divisor)
+          print "number is prime',number+=1,divisor=2,process again
+       else
+           process again 
+           if number>100 
+           end.
