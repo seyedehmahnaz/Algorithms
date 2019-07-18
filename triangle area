@@ -1,0 +1,10 @@
+input;
+var height;
+var base;
+var area;
+------------------------
+process;
+area=(height*base)/2;
+------------------------
+output;
+print area;
